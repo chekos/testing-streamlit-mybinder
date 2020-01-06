@@ -1,0 +1,2 @@
+# enable nbserverproxy
+jupyter serverextension enable --sys-prefix nbserverproxy
