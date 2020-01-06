@@ -1,3 +1,4 @@
 streamlit 
 jupyter-server-proxy 
 jupyter-rsession-proxy
+nbserverproxy
